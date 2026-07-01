@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="511d335f-f35b-47c4-a2bd-2a436113272b" name="Changes" comment="Basics programs">
-      <change afterPath="$PROJECT_DIR$/Basics/variables&amp;datatype10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/variables&amp;datatype11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/variables&amp;datatype12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/variables&amp;datatype9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/variables&amp;datatype13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/variables&amp;datatype14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/variables&amp;datatype15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/variables&amp;datatype16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/variables&amp;datatype17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/variables&amp;datatype18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/variables&amp;datatype19.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/variables&amp;datatype8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/variables&amp;datatype8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +60,13 @@
     "Python.variables&datatype10.executor": "Run",
     "Python.variables&datatype11.executor": "Run",
     "Python.variables&datatype12.executor": "Run",
+    "Python.variables&datatype13.executor": "Run",
+    "Python.variables&datatype14.executor": "Run",
+    "Python.variables&datatype15.executor": "Run",
+    "Python.variables&datatype16.executor": "Run",
+    "Python.variables&datatype17.executor": "Run",
+    "Python.variables&datatype18.executor": "Run",
+    "Python.variables&datatype19.executor": "Run",
     "Python.variables&datatype2.executor": "Run",
     "Python.variables&datatype3.executor": "Run",
     "Python.variables&datatype4.executor": "Run",
@@ -120,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782873765942</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Basics programs">
+      <option name="closed" value="true" />
+      <created>1782906815832</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1782906815832</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
